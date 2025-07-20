@@ -1,4 +1,4 @@
-# UI-UX-Design
+# UI-UX-Design-Redesign
 **COMPANY** : CODTECH IT SOLUTIONS
 
 **NAME** : SIVAPRIYA BALAKRISHNAN
